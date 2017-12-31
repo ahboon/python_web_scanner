@@ -8,5 +8,8 @@ Usage:
 
 Open up main.py and change the variable `base_url` to your target url. `Example: http://www.example.com , http://192.168.0.1 `
 
-Run `main.py` normally and wait for it to end. A file called `output_file.txt` will be created.
+Run `main.py` normally and wait for it to end. Output will be shown in terminal.
+
+
+##### Credits to `https://blog.thireus.com/web-common-directories-and-filenames-word-lists-collection/`  for the wordlist! 
 
